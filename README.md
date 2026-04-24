@@ -48,7 +48,7 @@ El script:
 
 Antes de hacer cambios reales:
 
-./script.sh --old sapoclay --new entreunosyceros --dry-run
+./script.sh --old usuario-viejo --new usuario-nuevo --dry-run
 
 Esto mostrará qué repos serían modificados sin tocar nada.
 
