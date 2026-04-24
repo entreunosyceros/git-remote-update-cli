@@ -111,4 +111,4 @@ Una herramienta simple, rápida y segura para migrar remotos Git en masa sin ten
 
 ## Licencia
 
-Uso libre. Modifícalo, rómpelo o mejóralo 
+MIT. Uso libre. Modifícalo, rómpelo o mejóralo 
